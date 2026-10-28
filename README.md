@@ -116,4 +116,4 @@ The screenshots provide evidence of the configuration and testing performed.
 
 **Assignment:** WK1-PM1
 
-**Program:** Cybersecurity
+**Program:** Cybersecurity internship
