@@ -294,7 +294,8 @@ This lab provides a foundation for continuing my cybersecurity training and carr
 ## 11. Author
 
 **Name:** MUTSIIRWA MATEMBERA JOSUE
-**Student/Project Code:** B084  
+
+**Batch:** B084  
 **Assignment:** WK1-PM1  
 **Program:** Cybersecurity Internship  
 **Organization:** NetworkWalks  
